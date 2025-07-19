@@ -26,7 +26,7 @@ Uma aplicação simples de lista de tarefas (Todo List) desenvolvida com React. 
 ## 📦 Como executar o projeto
 * Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/mytodo.git
+git clone https://github.com/caio20538/todo-list.git
 ```
 
 *  Instale as dependências:
